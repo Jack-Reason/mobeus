@@ -1,0 +1,376 @@
+chown ec2-user:ec2-user *zsh*
+chown ec2-user:ec2-user .*zsh*
+chsh /bin/zsh
+chsh ec2-user -s /bin/zsh
+chsh root -s /bin/zsh
+cp -a .zsh* ~ec2-user
+cp The7/dt-the7.2_v.2.3.1.zip .
+cp ~/The7.2_v.2.3.1.zip .
+cp ~j/.z* .
+curl -sSL https://get.docker.com/ | less
+curl -sSL https://get.docker.com/ | sh
+d1c912160b69646f3409c710022f19b16446cf59bfae3747b3e8cf626f0cd87b    \\
+d77bf2d6d972   \\
+d851ddb8d68a6591bdb862c7cfb2a5d045cc9bc51e7619859467b7addc5863c5   \\
+dd8e1d03341c1e2b59277bdfd443e8f39cca9fb34185b2749df1ee331db10166    \\
+de76d6f77cc80e0deee5f3ccea3d39bef5c00c7cba3fdaf8523f2af672b0dbd5   \\
+df -h
+dm
+dm --help
+dmsetup
+dmsetup --help
+dmsetup -vvvv table
+dmsetup -vvvv targets
+dmsetup info
+dmsetup info docker-202:1-264030-base
+dmsetup ls
+dmsetup status   docker-202:1-264030-edb69fa09238fff2b56ddc371d0d9816b92590820f7eb1f444f6d8fb01fe1f78
+dmsetup table
+dmsetup targets
+dmsetup targewts
+docker --help
+docker --help
+docker --help
+docker --help
+docker -s
+docker commit --help
+docker commit help
+docker cp --help
+docker cp help
+docker delete 42f55932f42d
+docker events
+docker exec --help
+docker exec --help
+docker exec -i  8de bash -c 'cat > dt-the7.tar.gz' < dt-the7.tar.gz
+docker exec -i  8de bash -c 'cat > The7.2_v.2.3.1.zip' < The7.2_v.2.3.1.zip
+docker exec -it  8de bash
+docker exec -it  8de bash
+docker exec -it  8de bash
+docker exec -it  8de bash
+docker exec -it  8de bash -c 'cat > The7.2_v.2.3.1.zip' < The7.2_v.2.3.1.zip
+docker exec -it 1e8 bash -l
+docker exec -it 2ebfd4dc6e94 bash -l
+docker exec -it bash 8de
+docker exec -it ee7f1863786c bash
+docker help
+docker help
+docker help
+docker help
+docker help
+docker help
+docker images
+docker images
+docker images
+docker images
+docker images
+docker info
+docker info
+docker inspect --help
+docker inspect -a
+docker inspect f757c07b5460
+docker kill 8de
+docker ps
+docker ps
+docker ps
+docker ps
+docker ps
+docker ps
+docker ps
+docker ps
+docker ps
+docker ps
+docker ps
+docker ps
+docker ps
+docker ps
+docker ps
+docker ps
+docker ps
+docker ps
+docker ps
+docker ps
+docker ps
+docker ps
+docker ps
+docker ps
+docker ps
+docker ps
+docker ps
+docker ps
+docker ps
+docker ps
+docker ps
+docker ps
+docker ps
+docker ps
+docker ps
+docker ps
+docker ps
+docker ps
+docker ps
+docker ps --help
+docker ps --help
+docker ps --helphelp
+docker ps -a
+docker ps -a
+docker ps -a
+docker ps -a
+docker ps -a
+docker ps -a
+docker ps -a
+docker ps -a
+docker ps -a
+docker ps -a
+docker ps -a
+docker ps -a
+docker ps -a
+docker ps -a
+docker ps -a
+docker ps -a
+docker ps -a -q
+docker ps -aq
+docker ps -as
+docker ps help
+docker ps | grep wordpre
+docker ps | grep wordpre | cut -d' ' -f1
+docker ps | grep wordpre | cut -f1
+docker rm -f $(docker ps -a -q)
+docker rm -f $(docker ps -a -q)
+docker rm -f $(docker ps -a -q)
+docker rm -f $(docker ps -a -q)
+docker rm -f $(docker ps -a -q)
+docker rm -f 01b85b4c2eae506755c954e27e8483fa1c2cd8e6d3ad682a0713ee4f187db51f   \\
+docker rm -f 1fe5bb290d3b4198fbb43456da0e0b5d9994bcdfdbe70d8a76be7ad69a123ffb b9aa271283ae3117edf78c06a5eba1156371944be600be2c0d22ef8bd2a3b297    \\
+docker rm -f 256894305c00  \\
+docker rm -f 2ebfd4dc6e94
+docker rm -f 46d
+docker rm -f a000d542d471b9d0ee022d29013ce3cdfa9e5d97741b238960dd71a31a3e72f2 f9715f431303641231d39a4c30ecac4bc5d2410380e2226670d2ba8480bdb58f
+docker rm -f c6fe3f319522   \\
+docker rm -f d0a69afff9d4221ba3c30986f3be13c2a683e821c73ab6638e8bb38293839348 fb9e597a85a46cf1513167e3c233be5f10d5238926a30c47848e82a9713b3976 2f3a22e089244090bc6264fe95b244d9545cd664aa807e31a721f3d536f93c6f 23be7731a4f368ee534f43af98f011c399cdbe87f0744dfdb95495bdc61c9379 8c4b0a535118c4bb210aa1eaff618a0799db902720ea2a2d06a0849709ac9406 9b38ccce32e3583f858675df7520df98e2779ca85c472e4f6b2ca0b7de67b9f5
+docker rm 2207e99000a9
+docker rm 2207e99000a9.
+docker rm 42f55932f42d
+docker rm d0a69afff9d4221ba3c30986f3be13c2a683e821c73ab6638e8bb38293839348 fb9e597a85a46cf1513167e3c233be5f10d5238926a30c47848e82a9713b3976 2f3a22e089244090bc6264fe95b244d9545cd664aa807e31a721f3d536f93c6f 23be7731a4f368ee534f43af98f011c399cdbe87f0744dfdb95495bdc61c9379 8c4b0a535118c4bb210aa1eaff618a0799db902720ea2a2d06a0849709ac9406 9b38ccce32e3583f858675df7520df98e2779ca85c472e4f6b2ca0b7de67b9f5
+docker run  --name wp-mysql-01 -e MYSQL_ROOT_PASSWORD=acRiciOnAgeB  -d mysql:latest
+docker run  --name wp-mysql-02 -e MYSQL_ROOT_PASSWORD=acRiciOnAgeB  -d mysql:latest
+docker run  --name wp-mysql-03 -e MYSQL_ROOT_PASSWORD=acRiciOnAgeB  -d mysql:latest
+docker run  --name wp-mysql-04 -e MYSQL_ROOT_PASSWORD=acRiciOnAgeB  -d mysql:latest
+docker run  --name wp-mysql-05 -e MYSQL_ROOT_PASSWORD=acRiciOnAgeB  -d mysql:latest
+docker run  --name wp-mysql-06 -e MYSQL_ROOT_PASSWORD=acRiciOnAgeB  -d mysql:latest
+docker run  --name wp-mysql-07 -e MYSQL_ROOT_PASSWORD=acRiciOnAgeB  -d mysql:latest
+docker run  --name wp-mysql-08 -e MYSQL_ROOT_PASSWORD=acRiciOnAgeB  -d mysql:latest
+docker run --help
+docker run --help
+docker run --help | less
+docker run --name wp-wordpress-01  -e MYSQL_ROOT_PASSWORD=acRiciOnAgeB -p 80:80 -p 443:443  -d wordpress:latest
+docker run --name wp-wordpress-01  -e WORDPRESS_DB_HOST=localhost:mysql   -e MYSQL_ROOT_PASSWORD=acRiciOnAgeB -p 80:80 -p 443:443  -d wordpress:latest
+docker run --name wp-wordpress-01 --link edb69fa09238:mysql -e MYSQL_ROOT_PASSWORD=acRiciOnAgeB -p 80:80 -p 443:443  -d wordpress:latest
+docker run --name wp-wordpress-01 --link edb69fa09238:mysql -e MYSQL_ROOT_PASSWORD=acRiciOnAgeB -p 80:80 -p 443:443  -d wordpress:latest
+docker run --name wp-wordpress-01 --link wp-mysql01:mysql -e MYSQL_ROOT_PASSWORD=acRiciOnAgeB -p 80:80 -p 443:443  -d wordpress:latest
+docker run help
+docker start   --help
+docker start   -ai
+docker start   -ai 46d05483294af7846931eac6c4bd58aeab946d38d7842634b925d6fde953b3de
+docker start --help
+docker start --help
+docker start --help
+docker start -ai 2ebfd4dc6e94
+docker start 2d6 ; sleep 3; docker start 8de
+docker start 2d6 ; sleep 3; docker start 8de
+docker start 2d6 ; sleep 3; docker start 8de
+docker start 4d3bf9ebc85e
+docker start 8de 2d6
+docker start 8de 2d6
+docker start f757c07b5460
+docker stop `docker ps | cut -d' ' -f1`
+docker stop `docker ps | grep wordpre | cut -d' ' -f1`
+docker stop f757
+dpcker ps
+du -hs *
+e11905f7d314596f733871a8e35f88c988cc4cebf2157b3951af349a3acdd0ab   \\
+e73f481a88dad08c57d56604ee7c164e1abc73835c5d3ed8c02790fd54ec0f9d    \\
+e7f586252c4e1e5257b14541c39cb2f5d7c39706ca244aad50adaffff8e12838   \\
+eadc49aa774f9691b35335aa021d51039783047f411ffbb5cf6cd464c709b967   \\
+echo #i=01; docker run --name wp-wordpress-${i} --link $(docker run  --name wp-mysql-${i} -e MYSQL_ROOT_PASSWORD=acRiciOnAgeB  -d mysql:latest):mysql -e MYSQL_ROOT_PASSWORD=acRiciOnAgeB -p ${i}80:80 -p ${i}443:443  -d wordpress:latest
+echo $SHELL
+edb69fa09238fff2b56ddc371d0d9816b92590820f7eb1f444f6d8fb01fe1f78   \\
+ee7f1863786c
+export TERM=xterm-256color
+f9715f431303641231d39a4c30ecac4bc5d2410380e2226670d2ba8480bdb58f   \\
+faefec5abcdb1a903c792b4a27c06ff3ccaaa5996190b3a9ebe8dcf41fd33324
+for i in {01..05};  do echo $i; done
+for i in {01..05}; do docker run --name wp-wordpress-${i} --link $(docker run  --name wp-mysql-${i} -e MYSQL_ROOT_PASSWORD=acRiciOnAgeB  -d mysql:latest):mysql -e MYSQL_ROOT_PASSWORD=acRiciOnAgeB -p ${i}80:80 -p ${i}443:443  -d wordpress:latest; done
+for i in {01..05}; do docker run --name wp-wordpress-${i} --link $(docker run  --name wp-mysql-${i} -e MYSQL_ROOT_PASSWORD=acRiciOnAgeB  -d mysql:latest):mysql -e MYSQL_ROOT_PASSWORD=acRiciOnAgeB -p ${i}80:80 -p ${i}443:443  -d wordpress:latest; done
+for i in {01..05}; do docker run --name wp-wordpress-${i} --link $(docker run  --name wp-mysql-${i} -e MYSQL_ROOT_PASSWORD=acRiciOnAgeB  -d mysql:latest):mysql -e MYSQL_ROOT_PASSWORD=acRiciOnAgeB -p ${i}80:80 -p ${i}443:443  -d wordpress:latest; done
+for i in {10..64}; do docker run --name wp-wordpress-${i} --link $(docker run  --name wp-mysql-${i} -e MYSQL_ROOT_PASSWORD=acRiciOnAgeB  -d mysql:latest):mysql -e MYSQL_ROOT_PASSWORD=acRiciOnAgeB -p ${i}80:80 -p ${i}443:443  -d wordpress:latest; done
+for i in {5..9}; do docker run --name wp-wordpress-0${i} --link $(docker run  --name wp-mysql-0${i} -e MYSQL_ROOT_PASSWORD=acRiciOnAgeB  -d mysql:latest):mysql -e MYSQL_ROOT_PASSWORD=acRiciOnAgeB -p ${i}80:80 -p ${i}443:443  -d wordpress:latest; done
+htop
+i=01; docker run --name wp-wordpress-${i} --link $(docker run  --name wp-mysql-${i} -e MYSQL_ROOT_PASSWORD=acRiciOnAgeB  -d mysql:latest):mysql -e MYSQL_ROOT_PASSWORD=acRiciOnAgeB -p ${i}80:80 -p ${i}443:443  -d wordpress:latest
+i=01; docker run --restart=on-failure:100 --name wp-wordpress-${i} --link $(docker run  --restart=on-failure:100  --name wp-mysql-${i} -e MYSQL_ROOT_PASSWORD=acRiciOnAgeB  -d mysql:latest):mysql -e MYSQL_ROOT_PASSWORD=acRiciOnAgeB -p ${i}80:80 -p ${i}443:443  -d wordpress:latest
+i=01; docker run --restart=on-failure:100 --name wp-wordpress-${i} --link $(docker run  --restart=on-failure:100  --name wp-mysql-${i} -e MYSQL_ROOT_PASSWORD=acRiciOnAgeB  -d mysql:latest):mysql -e MYSQL_ROOT_PASSWORD=acRiciOnAgeB -p 80:80 -p 443:443  -d wordpress:latest
+i=2; docker run --name wp-wordpress-0${i} --link 2351228097f302ca43c5af45df3c1db5153e0fb29b80b0c26c3bef97ab1dc831:mysql -e MYSQL_ROOT_PASSWORD=acRiciOnAgeB -p ${i}80:80 -p ${i}443:443  -d wordpress:latest
+i=2; docker run --name wp-wordpress-0${i} --link 2351228097f302ca43c5af45df3c1db5153e0fb29b80b0c26c3bef97ab1dc831:mysql -e MYSQL_ROOT_PASSWORD=acRiciOnAgeB -p ${i}80:80 -p ${i}443:443  -d wordpress:latest
+i=2; docker run --name wp-wordpress-0${i} --link wp-mysql0${i}:mysql -e MYSQL_ROOT_PASSWORD=acRiciOnAgeB -p ${i}80:80 -p ${i}443:443  -d wordpress:latest
+i=3; docker run --name wp-wordpress-0${i} --link $(docker run  --name wp-mysql-0${i} -e MYSQL_ROOT_PASSWORD=acRiciOnAgeB  -d mysql:latest):mysql -e MYSQL_ROOT_PASSWORD=acRiciOnAgeB -p ${i}80:80 -p ${i}443:443  -d wordpress:latest
+i=4; docker run --name wp-wordpress-0${i} --link $(docker run  --name wp-mysql-0${i} -e MYSQL_ROOT_PASSWORD=acRiciOnAgeB  -d mysql:latest):mysql -e MYSQL_ROOT_PASSWORD=acRiciOnAgeB -p ${i}80:80 -p ${i}443:443  -d wordpress:latest
+id ec2-user
+id j
+id j
+ifconfig
+join (<md5sum ~ec2-user/.zsh* | sort) (<md5sum .zsh* | sort)
+join (<md5sum ~ec2-user/.zsh* | sort) (<md5sum .zsh*)
+join <(md5sum ~ec2-user/.zsh* | sort) <(md5sum .zsh* | sort)
+less f757c07b5460ab5229755601493465eac87f3aa1aea0e3b6238dcd074937e298-json.log
+losetup --help
+losetup -a
+losetup -al
+ls
+ls -hl /var/lib/docker/devicemapper/devicemapper/data
+ls -l
+ls -l
+ls -l
+ls -l
+ls -l
+ls -l
+ls -l
+ls -l
+ls -l
+ls -l
+ls -l
+ls -l
+ls -l
+ls -l
+ls -l
+ls -l
+ls -l
+ls -l
+ls -l
+ls -l
+ls -l
+ls -l
+ls -l
+ls -l
+ls -l
+ls -l
+ls -l
+ls -l
+ls -l
+ls -l
+ls -l
+ls -l
+ls -l
+ls -l
+ls -l
+ls -l
+ls -l
+ls -l /bin/zsh
+ls -l /var/lib/docker/devicemapper/devicemapper/data
+ls -l /var/run
+ls -l /var/run/docker.sock
+ls -l chkconfig.d
+ls -l dt-the7
+ls -l vfs
+ls -l vfs
+ls -l vfs/dir
+ls -l vfs/dir/*
+ls -l ~
+ls -la
+ls -la
+ls -la
+ls -la
+ls -la
+ls -ld /var/run
+ls -lh
+ls -lh ~
+ls -lR
+lsof | grep -i dock
+lsof | grep -i dock | sort
+lsof | grep -i dock | sort | less
+lsof | less
+lsof | less
+man mapper
+man unzip
+md
+md5sum .zsh*
+md5sum ~ec2-user/.zsh*
+md5sum ~ec2-user/.zsh* | sort
+mdadm
+mdadm --help
+mount
+mount
+mv /tmp/The7.2_v.2.3.1.zip .
+mv The7.2_v.2.3.1.zip /tmp
+mv The7.2_v.2.3.1.zip ~
+mv The7.2_v.2.3.1.zip\?AWSAccessKeyId=AKIAJYG5ROGJ6X7Z3M6Q\&Expires=1440947760\&Signature=qSE33TyUT2mSuSvGyQXioG0Qgz8%3D\&response-content-disposition=attachment%3B+filename%3Dthemeforest-5556590-the7-responsive-multipurpose-wordpress-theme.zi  The7.2_v.2.3.1.zip
+netstat -nap | less
+netstat -nap | less
+poweroff
+poweroff
+ps aux
+ps aux | less
+ps aux | less
+ps aux | less
+ps aux | less
+ps aux | less
+ps aux | sort -k 11 | less
+ps aux | sort | less
+ps auxl | less
+ps ax
+ps ax
+ps ax
+ps ax | grep -i docker
+ps ax | grep -vF '['
+ps uax | grep -i docker
+pwd
+pwd
+pwd
+pwd
+reboot
+rm -rf *
+rm -rf 8
+rm -rf a000d542d471b9d0ee022d29013ce3cdfa9e5d97741b238960dd71a31a3e72f2 f9715f431303641231d39a4c30ecac4bc5d2410380e2226670d2ba8480bdb58f
+service docker restart
+sudo su  -
+sudo su -
+sudo su -
+sudo su -
+sudo su -
+sudo su -
+sudo su -
+sudo su -
+sudo su -
+sudo su -
+sudo su -
+tar zcvf dt-the7.tar.gz dt-the7
+top
+unzip -d The7  The7.2_v.2.3.1.zip
+unzip -d the7-theme
+unzip -d the7-theme dt-the7.2_v.2.3.1.zip
+unzip The7.2_v.2.3.1.zip
+useradd j
+usermod --help
+usermod -a -G docker j
+vi /etc/docker/key.json
+vi /etc/host.conf
+vi /etc/sysconfig/network
+vi cloud-init
+vi config.json
+vi config.json
+visudo
+w
+wget 'https://s3.amazonaws.com/marketplace-downloads.envato.com/files/146062868/The7.2_v.2.3.1.zip?AWSAccessKeyId=AKIAJYG5ROGJ6X7Z3M6Q&Expires=1440947760&Signature=qSE33TyUT2mSuSvGyQXioG0Qgz8%3D&response-content-disposition=attachment%3B+filename%3Dthemeforest-5556590-the7-responsive-multipurpose-wordpress-theme.zip'
+wget http://themeforest.net/user/jackreason/download_purchase/b96418b8-bca9-479d-8ec6-8573485de065
+wget http://themeforest.net/user/jackreason/download_purchase/b96418b8-bca9-479d-8ec6-8573485de065
+wget https://s3.amazonaws.com/marketplace-downloads.envato.com/files/146062868/The7.2_v.2.3.1.zip?AWSAccessKeyId=AKIAJYG5ROGJ6X7Z3M6Q&Expires=1440947760&Signature=qSE33TyUT2mSuSvGyQXioG0Qgz8%3D&response-content-disposition=attachment%3B+filename%3Dthemeforest-5556590-the7-responsive-multipurpose-wordpress-theme.zip
+whoami
+whoami
+yum install docker docker-devel docker-pkg-devel
+yum install htop
+yum install zsh
+yum list
+yum list | grep -i docker
+yum update
+yum update
+yum update
+zsh
+zsh
